@@ -2,10 +2,6 @@
 
 
 
-Audible Data Cleaning Project
-
-
-
 Overview
 
 Cleaned an Audible dataset using Excel.
@@ -33,4 +29,6 @@ Tools Used
 Result
 
 Clean and structured dataset ready for analysis.
+
+Nikhil Pal
 
